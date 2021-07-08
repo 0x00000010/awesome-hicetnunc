@@ -1,5 +1,5 @@
 # awesome-hicetnunc [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/yordanhristovUX/awesome-hicetnunc/bb2bac00cb8a36d2f9e541cd7ff56a5415e82eae/logoawehen.svg">
+<img align="right" width="100" height="100" src="./logoawehen.svg">
 
 > Awesome list of things in the broader hic et nunc ecosystem 
 
